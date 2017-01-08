@@ -6,6 +6,8 @@ This card is primarily used for [electronic money cards](https://en.wikipedia.or
 
 Documentation for this library is contained within JavaDoc comments, in Japanese.
 
+[![Build Status](https://travis-ci.org/codebutler/nfc-felica-lib.svg?branch=master)](https://travis-ci.org/codebutler/nfc-felica-lib)
+
 ## License
 
 Copyright 2011 [Kazzz](https://github.com/Kazzz).
